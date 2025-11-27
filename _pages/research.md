@@ -18,30 +18,14 @@ Broadly, my goal is to develop AI systems that can reason, communicate, and adap
 
 ---
 
-## Interesting Projects
+## Work Experience
 
-### Project 1: [Add Your Project Title]
-**Description**: Add a description of your interesting project here.
+**Counselor**, Student Science and Technology Innovation Association, UM-SJTU JI  
+*October 2022 - August 2024*
 
-**Technologies**: Python, PyTorch, etc.
-
-**Links**: [GitHub](#) | [Demo](#) | [Paper](#)
-
----
-
-### Project 2: [Add Your Project Title]
-**Description**: Add a description of your interesting project here.
-
-**Technologies**: Add your technologies here.
-
-**Links**: [GitHub](#) | [Demo](#) | [Paper](#)
-
----
-
-## Service
-
-* **2024.09 - Present**, Teaching Assistant for [Course Name], University of Michigan
-* **2023.09 - 2024.06**, Research Assistant, Shanghai Jiao Tong University
+* Principal for the 14th Liming Cup set design and terrain layout
+* Lecturer for the 2023 SolidWorks Workshop
+* TA for 2022-2023 Python, Markdown & LaTeX, and Liming Cup Prep Workshops
 
 ---
 

@@ -45,7 +45,7 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
-  cv               : "files/CV.pdf"
+  cv               : "/files/CV.pdf"
 
 
   # Repositories and software development
