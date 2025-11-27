@@ -1,32 +1,27 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Xinzhe Juan",
+    "email": "juanxz@umich.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://1akaman.github.io",
+    "summary": "Senior undergrad majoring in Computer Science at the University of Michigan with a dual degree at SJTU",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Ann Arbor",
       "countryCode": "US",
-      "region": ""
+      "region": "Michigan"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/citations?user=XmSfR6YAAAAJ"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "1akaman",
+        "url": "https://github.com/1akaman"
       }
     ]
   },
