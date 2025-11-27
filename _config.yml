@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Homepage"
+title                    : "Xinzhe Juan"
 title_separator          : "-"
 name                     : &name "Xinzhe Juan"
-description              : &description "Xinzhe Juan's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Senior Undergraduate | Computer Science | University of Michigan & Shanghai Jiao Tong University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://1akaman.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "self.jpg"
   name             : "Xinzhe Juan"
   pronouns         : "he/him" # example: "she/her"
-  bio              : "Senior undergrad majoring in Computer Science at the University of Michigan with a dual degree at SJTU"
+  bio              : "Senior Undergraduate<br>University of Michigan | Shanghai Jiao Tong University"
   location         : "Ann Arbor, MI"
   # employer         : "Red Brick University"
   # uri              : # URL
@@ -45,6 +45,7 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
+  cv               : "files/CV.pdf"
 
 
   # Repositories and software development
@@ -66,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : xinzhe-juan-941aa9348 # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,7 +75,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : Xinzhe Juan
+  twitter          : xinzhe4538
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -84,12 +85,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Publications'
+  manuscripts:
+    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
